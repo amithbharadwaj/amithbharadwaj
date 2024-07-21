@@ -1,99 +1,56 @@
-![Reactive Resume](https://i.imgur.com/FFc4nyZ.jpg)
+# Welcome to My GitHub Profile!
 
-![App Version](https://img.shields.io/github/package-json/version/AmruthPillai/Reactive-Resume?label=version)
-[![Docker Pulls](https://img.shields.io/docker/pulls/amruthpillai/reactive-resume)](https://hub.docker.com/repository/docker/amruthpillai/reactive-resume)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/AmruthPillai)](https://github.com/sponsors/AmruthPillai)
-[![Crowdin](https://badges.crowdin.net/reactive-resume/localized.svg)](https://crowdin.com/project/reactive-resume)
-[![Discord](https://img.shields.io/discord/1173518977851473940?label=discord&link=https%3A%2F%2Fdiscord.gg%2FhzwkZbyvUW)](https://discord.gg/hzwkZbyvUW)
+👋 Hi, I'm Amith Baradwaj KH, a passionate and experienced software developer specializing in ASP.NET Web API and Node.js. With over 4 years of experience, I've successfully designed, developed, and deployed a range of web applications using cutting-edge technologies.
 
-# Reactive Resume
+## 🚀 Technologies & Skills
 
-A free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume.
+- **Languages:** C#, JavaScript, TypeScript
+- **Frameworks & Libraries:** ASP.NET Core, Node.js, Express, MVC
+- **Databases:** MySQL, MongoDB, Redis, AWS RDS, AWS Aurora
+- **Cloud Platforms:** AWS (EC2, ECS, RDS, DocumentDB, Amplify)
+- **DevOps Tools:** Docker, GitHub Actions, GitLab CI/CD, Nginx, Apache, IIS
+- **Version Control:** Git, GitHub, GitLab
 
-### [Go to App](https://rxresu.me/) | [Docs](https://docs.rxresu.me/)
+## 🛠 Projects
 
-## Description
+### 1. [AIRI] (Ongoing)
+- **Technologies:** Node.js, Express
+- **Deployment:** AWS (EC2, RDS, DocumentDB), Private Server (Local MySQL Docker, Mongo Docker)
+- **CI/CD:** GitHub Actions for ECR upload, GitLab pipeline for image deployment using Nginx proxy server and load balancer
+- **Description:** AIRI is an advanced application designed to generation various architecture style images. It leverages AWS for scalability and Docker for containerization.
 
-Reactive Resume is a free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume. With zero user tracking or advertising, your privacy is a top priority. The platform is extremely user-friendly and can be self-hosted in less than 30 seconds if you wish to own your data completely.
+### 2. [Healthetile]
+- **Technologies:** ASP.NET Core 8, Web API
+- **Deployment:** AWS ECS, AWS Amplify, MySQL Aurora (Read/Write Replica), Redis OSS
+- **CI/CD:** GitHub Actions for ECR upload and ECS deployment
+- **Description:** Healthetile provides a comprehensive We-Be Band(We-Be is a new generation wearable watch equipped with multiple vital sign sensors. It seamlessly outputs clean raw data waveform which is accessed through in cloud and everywhere. It has an Open-API to create user-specific applications), utilizing AWS services for reliable and scalable deployment.
 
-It's available in multiple languages and comes packed with features such as real-time editing, dozens of templates, drag-and-drop customisation, and integration with OpenAI for enhancing your writing.
+### 3. [Sainahealth]
+- **Technologies:** ASP.NET Web API
+- **Deployment:** AWS EC2, RDS
+- **Description:** Sainahealth is an admin panel that facilitates [describe primary functionality], deployed on AWS EC2 with a focus on performance and security.
 
-You can share a personalised link of your resume to potential employers, track its views or downloads, and customise your page layout by dragging-and-dropping sections. The platform also supports various font options and provides dozens of templates to choose from. And yes, there's even a dark mode for a more comfortable viewing experience.
+### 4. [Dataflow]
+- **Technologies:** ASP.NET MVC
+- **Deployment:** AWS EC2
+- **Description:** Developed for Dubai Health Authority, Dataflow integrates with a payment gateway and features new package configuration to streamline [describe primary functionality].
 
-Start creating your standout resume with Reactive Resume today!
+## 📚 Experience
 
-## Templates
+- **Software Developer** at [Promena] | [2020 OCT] - Present
+  - Designed and developed scalable applications using ASP.NET Core and Node.js.
+  - Implemented CI/CD pipelines with GitHub Actions and GitLab for efficient deployments.
+  - Managed cloud infrastructure on AWS, including EC2, ECS, RDS, and DocumentDB.
 
-| Azurill                                                      | Bronzor                                                     | Chikorita                                                   |
-| ------------------------------------------------------------ | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| <img src="https://i.imgur.com/jKgo04C.jpeg" width="200px" /> | <img src="https://i.imgur.com/DFNQZP2.jpg" width="200px" /> | <img src="https://i.imgur.com/Dwv8Y7f.jpg" width="200px" /> |
+## 🌟 Achievements
 
-| Ditto                                                       | Kakuna                                                      | Nosepass                                                    |
-| ----------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| <img src="https://i.imgur.com/6c5lASL.jpg" width="200px" /> | <img src="https://i.imgur.com/268ML3t.jpg" width="200px" /> | <img src="https://i.imgur.com/npRLsPS.jpg" width="200px" /> |
+- Successfully deployed multiple high-availability applications with zero downtime.
+- Optimized deployment processes, reducing deployment times by X%.
+- Contributed to open-source projects and collaborated with cross-functional teams.
 
-| Onyx                                                        | Pikachu                                                     | Rhyhorn                                                     |
-| ----------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| <img src="https://i.imgur.com/cxplXOW.jpg" width="200px" /> | <img src="https://i.imgur.com/Y9f7qsh.jpg" width="200px" /> | <img src="https://i.imgur.com/h4kQxy2.jpg" width="200px" /> |
+## 📫 Contact Me
 
-## Features
+- **Email:** [amithbharadwaj08@gmail.com]
+- 
+---
 
-- **Free, forever** and open-source
-- No telemetry, user tracking or advertising
-- You can self-host the application in less than 30 seconds
-- **Available in multiple languages** ([help add/improve your language here](https://translate.rxresu.me/))
-- Use your email address (or a throw-away address, no problem) to create an account
-- You can also sign in with your GitHub or Google account, and even set up two-factor authentication for extra security
-- Create as many resumes as you like under a single account, optimising each resume for every job application based on its description for a higher ATS score
-- **Bring your own OpenAI API key** and unlock features such as improving your writing, fixing spelling and grammar or changing the tone of your text in one-click
-- Translate your resume into any language using ChatGPT and import it back for easier editing
-- Create single page resumes or a resume that spans multiple pages easily
-- Customize the colours and layouts to add a personal touch to your resume.
-- Customise your page layout as you like just by dragging-and-dropping sections
-- Create custom sections that are specific to your industry if the existing ones don't fit
-- Jot down personal notes specific to your resume that's only visible to you
-- Lock a resume to prevent making any further edits (useful for master templates)
-- **Dozens of templates** to choose from, ranging from professional to modern
-- Design your resume using the standardised EuroPass design template
-- Supports printing resumes in A4 or Letter page formats
-- Design your resume with any font that's available on [Google Fonts](https://fonts.google.com/)
-- **Share a personalised link of your resume** to companies or recruiters for them to get the latest updates
-- You can track the number of views or downloads your public resume has received
-- Built with state-of-the-art (at the moment) and dependable technologies that's battle tested and peer reviewed by the open-source community on GitHub
-- **MIT License**, so do what you like with the code as long as you credit the original author
-- And yes, there’s a dark mode too 🌓
-
-## Built With
-
-- React (Vite), for the frontend
-- NestJS, for the backend
-- Postgres (primary database)
-- Prisma ORM, which frees you to switch to any other relational database with a few minor changes in the code
-- Minio (for object storage: to store avatars, resume PDFs and previews)
-- Browserless (for headless chrome, to print PDFs and generate previews)
-- SMTP Server (to send password recovery emails)
-- GitHub/Google OAuth (for quickly authenticating users)
-- LinguiJS and Crowdin (for translation management and localization)
-
-## Star History
-
-<a href="https://star-history.com/#AmruthPillai/Reactive-Resume&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=AmruthPillai/Reactive-Resume&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=AmruthPillai/Reactive-Resume&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=AmruthPillai/Reactive-Resume&type=Date" />
-  </picture>
-</a>
-
-## License
-
-Reactive Resume is packaged and distributed using the [MIT License](/LICENSE.md) which allows for commercial use, distribution, modification and private use provided that all copies of the software contain the same license and copyright.
-
-_By the community, for the community._  
-A passion project by [Amruth Pillai](https://www.amruthpillai.com/)
-
-<p>
-  <a href="https://www.digitalocean.com/?utm_medium=opensource&utm_source=Reactive-Resume">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/PoweredByDO/DO_Powered_by_Badge_blue.svg" width="200px">
-  </a>
-</p>
