@@ -7,7 +7,7 @@
 - **Languages:** C#, JavaScript, TypeScript
 - **Frameworks & Libraries:** ASP.NET Core, Node.js, Express, MVC
 - **Databases:** MySQL, MongoDB, Redis, AWS RDS, AWS Aurora
-- **Cloud Platforms:** AWS (EC2, ECS, RDS, DocumentDB, Amplify)
+- **Cloud Platforms:** AWS (EC2, Fargate, ECS, RDS, DocumentDB, Amplify, ECR, Lightsail), IIS
 - **DevOps Tools:** Docker, GitHub Actions, GitLab CI/CD, Nginx, Apache, IIS
 - **Version Control:** Git, GitHub, GitLab
 
