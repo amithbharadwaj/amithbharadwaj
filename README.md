@@ -28,19 +28,19 @@
 ### 3. [Sainahealth]
 - **Technologies:** ASP.NET Web API
 - **Deployment:** AWS EC2, RDS
-- **Description:** Sainahealth is an admin panel that facilitates [describe primary functionality], deployed on AWS EC2 with a focus on performance and security.
+- **Description:** Sainahealth is an admin panel that facilitates patient and healthcare professionals data, deployed on AWS EC2 with a focus on performance and security.
 
 ### 4. [Dataflow]
 - **Technologies:** ASP.NET MVC
 - **Deployment:** AWS EC2
-- **Description:** Developed for Dubai Health Authority, Dataflow integrates with a payment gateway and features new package configuration to streamline [describe primary functionality].
+- **Description:** Developed for Dubai Health Authority, Dataflow integrates with a payment gateway and features new package configuration to streamline health verifications.
 
 ## 📚 Experience
 
 - **Software Developer** at [Promena] | [2020 OCT] - Present
   - Designed and developed scalable applications using ASP.NET Core and Node.js.
   - Implemented CI/CD pipelines with GitHub Actions and GitLab for efficient deployments.
-  - Managed cloud infrastructure on AWS, including EC2, ECS, RDS, and DocumentDB.
+  - Managed cloud infrastructure on AWS, including Domain management and IIS.
 
 ## 🌟 Achievements
 
@@ -51,6 +51,6 @@
 ## 📫 Contact Me
 
 - **Email:** [amithbharadwaj08@gmail.com]
-- 
+- **Mobile:** [+91 7892954711]
 ---
 
